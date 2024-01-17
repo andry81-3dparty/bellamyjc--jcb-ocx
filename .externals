@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/20150119:
+    type:             git
+    url:              https://github.com/andry81-3dparty/bellamyjc--jcb-ocx
+    version:          20150119
+    fetch-to-branch:  20150119
