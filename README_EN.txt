@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2024.01.17
+* 2026.06.30
 * bellamyjc--jcb-ocx
 
 1. DESCRIPTION
@@ -39,14 +39,9 @@ Visual Basic Virtual Machine:
 -------------------------------------------------------------------------------
 5. EXTERNALS
 -------------------------------------------------------------------------------
-To checkout externals you must use the
-[vcstool](https://github.com/dirk-thomas/vcstool) python module.
+See details in `README_EN.txt` in `externals` project:
 
-NOTE:
-  To install the module from the git repository:
-
-  >
-  python -m pip install git+https://github.com/dirk-thomas/vcstool
+https://github.com/andry81/externals
 
 -------------------------------------------------------------------------------
 6. AUTHOR
